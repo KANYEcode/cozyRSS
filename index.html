@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="black white-text">
+  <head>
+    <title>Cozy Podcast</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://cozy.tv/public/cz_icon_bg_32.png" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@materializecss/materialize@1.1.0/dist/css/materialize.min.css"
+      media="screen,projection"
+    />
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/@materializecss/materialize@1.1.0/dist/js/materialize.min.js"
+    ></script>
+    <script defer src="main.js"></script>
+  </head>
+  <body>
+    <div class="container center-align">
+      <div class="center-align">
+        <h1>Backup for <a href="https://cozy.tv/">Cozy.tv</a> Audio</h1>
+        <p class="flow-text">
+          Generate a custom RSS feed directly from archive.org.
+        </p>
+        <div class="row valign-wrapper">
+          <div class="col s8 center-align">
+            <div class="card-panel cyan darken-2">
+              <span class="white-text"
+                >Note: The image and description of the channel will be generic
+                archive.org branding
+              </span>
+            </div>
+          </div>
+          <div class="col s4">
+            <a class="waves-effect waves-light btn red" id="clearSelection"
+              >Clear Selection</a
+            >
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="input-field col s12">
+          <i class="material-icons prefix" id="copyButton">content_copy</i>
+          <input
+            placeholder="RSS Link"
+            id="outputLink"
+            type="text"
+            class="validate white-text"
+            disabled
+          />
+          <label for="outputLink"></label>
+        </div>
+      </div>
+
+      <form action="#" id="checklist" class="row">
+        <p class="col s12 m6 l4 xl3">
+          <label class="valign-wrapper">
+            <img
+              src="https://cozy.tv/public/cz_icon_bg_256.png"
+              alt="all"
+              width="80"
+              class="circle"
+            />
+            <input type="checkbox" id="allStreamCheckbox" />
+            <span>All Streams</span>
+          </label>
+        </p>
+      </form>
+    </div>
+  </body>
+</html>
