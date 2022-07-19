@@ -316,7 +316,7 @@ const copyToClipboard = str => {
 
 const outputLink = document.getElementById('outputLink');
 const getLink = () => {
-  const base = 'https://archive.org/advancedsearch.php?q=mediatype:audio AND source:cozytv AND uploader:hankcavill@proton.me AND code:kanye';
+  const base = 'https://archive.org/advancedsearch.php?q=mediatype:audio AND source:cozytv AND code:kanye AND uploader:hankcavill@proton.me';
   const params = '&rows=100&output=rss';
   let link = base;
   if (allStreams.checked) {
