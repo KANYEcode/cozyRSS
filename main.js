@@ -5,11 +5,6 @@ const users = [
     "avatarUrl": "https://prd.foxtrotstream.xyz/a/av/fb67015b68ab4b5c842d29175cdd85c4.webp"
   },
   {
-    "name": "jaden",
-    "displayName": "Jaden",
-    "avatarUrl": "https://prd.foxtrotstream.xyz/a/av/6acc567890a5941f61ab1bf3962056a2.webp"
-  },
-  {
     "name": "vince",
     "displayName": "Vince",
     "avatarUrl": "https://prd.foxtrotstream.xyz/a/av/6cc7ccdd8b867ee2cca5b17ae70be4d3.webp"
