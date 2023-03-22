@@ -21,13 +21,13 @@ const users = [
     name: "tylerrussell",
     displayName: "TylerRussell",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/6a41fe3e905e0810f090eff8a73e3ecf.webp",
+      "https://prd.foxtrotstream.xyz/a/av/708fb405f8863b4cdc7e36062b3dfd55.webp",
   },
   {
     name: "beardson",
     displayName: "Beardson",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/aae4fe626e86236498724aaa6f433ec1.webp",
+      "https://prd.foxtrotstream.xyz/a/av/e6228a89403ca0c3648048cec1f98530.webp",
   },
   {
     name: "franssen",
@@ -57,7 +57,7 @@ const users = [
     name: "boseph",
     displayName: "Boseph",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/a4a55114fc6066c17d5a344ad6756628.webp",
+      "https://prd.foxtrotstream.xyz/a/av/eeebc113b12dd46709c9117d1a880933.webp",
   },
   {
     name: "bakedalaska",
@@ -69,7 +69,7 @@ const users = [
     name: "veyta",
     displayName: "Veyta",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/28d7e71f6e8b8c71dc35c8ff8ac36159.webp",
+      "https://prd.foxtrotstream.xyz/a/av/45522a02de8f61a02aabff0d3bb27983.webp",
   },
   {
     name: "augie",
@@ -108,16 +108,10 @@ const users = [
       "https://prd.foxtrotstream.xyz/a/av/9016109bbdcbdfd19debcfaa18a70d5c.webp",
   },
   {
-    name: "partygoy",
-    displayName: "PartyGoy",
-    avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/7030cf0a443cdee752221ce33e5fea3c.webp",
-  },
-  {
     name: "daltonclodfelter",
     displayName: "DaltonClodfelter",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/79387e6170a097b112805ab83cf4f383.webp",
+      "https://prd.foxtrotstream.xyz/a/av/532d7510c72d53523ebae662ab5c8e81.webp",
   },
   {
     name: "shooter",
@@ -129,7 +123,7 @@ const users = [
     name: "crosstalknews",
     displayName: "CrossTalkNews",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/b68898df3433b16eab706b8f90233a8f.webp",
+      "https://prd.foxtrotstream.xyz/a/av/da7b2bcf2d0378bcca4cbdabf64f9fd1.webp",
   },
   {
     name: "laurenwitzke",
@@ -141,7 +135,7 @@ const users = [
     name: "ux",
     displayName: "UX",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/8ab5216a68a746217ab9683348bc1759.webp",
+      "https://prd.foxtrotstream.xyz/a/av/a178da02d92170bbb3721b271026d9dc.webp",
   },
   {
     name: "trsartor",
@@ -154,6 +148,12 @@ const users = [
     displayName: "Gab",
     avatarUrl:
       "https://prd.foxtrotstream.xyz/a/av/43c4ed03f3b29f6eb7e9f40cb69d909c.webp",
+  },
+  {
+    name: "alexjones",
+    displayName: "AlexJones",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/22292afe5481aeb0a6bf27bd391d4ea4.webp",
   },
   {
     name: "bookcat",
@@ -171,7 +171,7 @@ const users = [
     name: "michaelalberto",
     displayName: "MichaelAlberto",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/8689a8b2081ed0d6cdf41e6897e07510.webp",
+      "https://prd.foxtrotstream.xyz/a/av/97f549c5af4f01aead23575a13d27edc.webp",
   },
   {
     name: "patrickhowley",
@@ -183,7 +183,7 @@ const users = [
     name: "paultown",
     displayName: "PaulTown",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/5c1f12973bfd23d8eda10b0bc4c6b070.webp",
+      "https://prd.foxtrotstream.xyz/a/av/324f7b0dd894a9049446fb877701996d.webp",
   },
   {
     name: "woozuh",
@@ -231,7 +231,7 @@ const users = [
     name: "cancelproof",
     displayName: "CancelProof",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/548a95e7494b3f2ae63e88b75b750f96.webp",
+      "https://prd.foxtrotstream.xyz/a/av/3155c027049a5ddc9516a95d94b8c851.webp",
   },
   {
     name: "milo",
@@ -249,7 +249,7 @@ const users = [
     name: "seanmccrossen",
     displayName: "SeanMcCrossen",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/4ad67488be771645f89aec2838f0031c.webp",
+      "https://prd.foxtrotstream.xyz/a/av/4f67db7f50dcf249ad827799a68ce3e6.webp",
   },
   {
     name: "politicallyprovoked",
@@ -279,13 +279,13 @@ const users = [
     name: "bigtech",
     displayName: "BigTech",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/cf2ce631539cfed3afde2ebc7f20a7d6.webp",
+      "https://prd.foxtrotstream.xyz/a/av/45e6d86b099c35195eaf91cc93a9834a.webp",
   },
   {
     name: "speckzo",
     displayName: "Speckzo",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/31a3da714b94d52a5670b88b123d9aac.webp",
+      "https://prd.foxtrotstream.xyz/a/av/34dbfd804c442a479d387e51ee22d12b.webp",
   },
   {
     name: "classicaltheist",
@@ -297,7 +297,7 @@ const users = [
     name: "wendell",
     displayName: "wendell",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/aaa543b062cc67cfd374d3ee4d21735a.webp",
+      "https://prd.foxtrotstream.xyz/a/av/53ca20d34bc6fe1d02ccc41a4d3b0964.webp",
   },
   {
     name: "kingknub",
@@ -327,7 +327,7 @@ const users = [
     name: "basedbrandt",
     displayName: "BasedBrandt",
     avatarUrl:
-      "https://prd.foxtrotstream.xyz/a/av/e624ed1db395b27b6f456932578e97b5.webp",
+      "https://prd.foxtrotstream.xyz/a/av/a714018d4406538997227e69dc572068.webp",
   },
   {
     name: "bibble",
@@ -348,10 +348,88 @@ const users = [
       "https://prd.foxtrotstream.xyz/a/av/7c8bd9c6daed345223cced622de428e3.webp",
   },
   {
+    name: "emichaeljones",
+    displayName: "EMichaelJones",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/c0500cded5230e2605c6529c62b17ab6.webp",
+  },
+  {
+    name: "lofi",
+    displayName: "lofi",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/008691625e77f867aa291b4a161d4f48.webp",
+  },
+  {
+    name: "cozyplays",
+    displayName: "CozyPlays",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/9f3be2e86182774e5a64663b8fc0d05e.webp",
+  },
+  {
     name: "dawson",
     displayName: "Dawson",
     avatarUrl:
       "https://prd.foxtrotstream.xyz/a/av/f5973afcd155668b462de5e613b439f6.webp",
+  },
+  {
+    name: "salvopancakes",
+    displayName: "SALVOPANCAKES",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/4103c704eaa4743cfbdab927587a53c8.webp",
+  },
+  {
+    name: "lporiginalg",
+    displayName: "LPoriginalG",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/86cd6e0c0816a4235238c71918e44401.webp",
+  },
+  {
+    name: "patdixon",
+    displayName: "PatDixon",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/187ecfe737c8553f21732babf307428a.webp",
+  },
+  {
+    name: "joeldavis",
+    displayName: "JoelDavis",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/940568c00f04c9d00fb6fdddbe258659.webp",
+  },
+  {
+    name: "loulz",
+    displayName: "Loulz",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/48b7ef3cbbcb0a2233573362b7867093.webp",
+  },
+  {
+    name: "joshhowes",
+    displayName: "JoshHowes",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/0dff4c90b395a06786921e753639ecea.webp",
+  },
+  {
+    name: "ali",
+    displayName: "Ali",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/743bf4845962096dc94acbda0976db50.webp",
+  },
+  {
+    name: "stone",
+    displayName: "Stone",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/4053ca1f9dd45a83657d59972bf30b0c.webp",
+  },
+  {
+    name: "loomer",
+    displayName: "LOOMER",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/62cd6cd2b1820ccd12dce85be62bd1d3.webp",
+  },
+  {
+    name: "keithwoods",
+    displayName: "KeithWoods",
+    avatarUrl:
+      "https://prd.foxtrotstream.xyz/a/av/5cc4ed8e0ac9c5b4e370d0de64ad4eb0.webp",
   },
 ].sort((a, b) =>
   a.displayName.toLowerCase().localeCompare(b.displayName.toLowerCase())
